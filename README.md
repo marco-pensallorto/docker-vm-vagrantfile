@@ -9,14 +9,14 @@ also work on other proprietary platforms (i.e. MS Windows).
 
 # Requirements
 
-- docker client
+- docker client (https://docs.docker.com/engine/install/binaries/#install-client-binaries-on-macos)
 - vagrant
 - virtualbox
 
 # Bereidingswijze[*] ;-)
 - Clone the repo
 ```shell
-$ git clone ....
+$ git clone git@github.com:marco-pensallorto/docker-vm-vagrantfile.git
 ```
 
 - Enter the directory and create the VM. Docker will be automatically installed.
